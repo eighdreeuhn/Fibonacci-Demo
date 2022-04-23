@@ -1,0 +1,9 @@
+#wrapper {
+    display: grid;
+    margin: 100px;
+    width: 1000px;
+    height: 1000px;
+    grid-template-rows: repeat(100, 1fr);
+    grid-template-columns: repeat(100, 1fr);
+
+}
